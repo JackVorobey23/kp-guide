@@ -3,6 +3,6 @@
 
 -  [Гайд по викладачам 2023/24](guide.md)
 
-><sub>[Дока по makdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) для тих хто хоче писати гайд<sub>
+><sub><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank">Дока по makdown</a> для тих хто хоче писати гайд<sub>
 
-><sub>[Зручний тул для написання маркдауна](https://stackedit.io/) для тих хто хоче писати гайд і не хоче читати доку<sub>
+><sub><a href="https://stackedit.io/" target="_blank">Зручний тул для написання маркдауна</a> для тих хто хоче писати гайд і не хоче читати доку<sub>
