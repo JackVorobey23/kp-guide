@@ -1,7 +1,8 @@
 # Гайд для первашів 121 спеціальності ФПМ
 Гайди:
 
--  [Гайд по викладачам 2023/24](guide.md)
+-  [Гайд по предметам 2023/24](src/guides/subjects-guide.md)
+-  [Гайд по гуртожитку](src/guides/dorm-guide.md)
 
 ><sub><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank">Дока по makdown</a> для тих хто хоче писати гайд<sub>
 
